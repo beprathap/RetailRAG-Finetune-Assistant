@@ -1,0 +1,26 @@
+Title: Printable Design for Apparel Products
+
+Overview:
+This catalog contains printable apparel items available for custom orders.
+
+Products:
+- Adult T-Shirts: Sizes S, M, L, XL, XXL. Colors include white, black, navy, light steel, deep royal, deep red, smoke gray, and ash.
+- Kids T-Shirts: Youth sizes S, M, L. Colors include white, black, navy, gray, royal blue, red, and charcoal.
+- Toddler T-Shirts: Sizes 2, 3, 4. Colors include white, black, navy, gray, light blue, and pink.
+- Infant Onesies: Sizes newborn, 6 months, 12 months, and 18 months. Colors include white, black, navy, gray, light blue, and pink.
+- Sweatshirts: Sizes S, M, L, XL, XXL. Colors include black, navy, heather charcoal, heather gray, and gray.
+
+Regional Availability:
+- Available regions: AU, CA, EU, NZ, US
+- Royal Blue, Red, and Charcoal Kids T-Shirts are only available in CA and US.
+- Charcoal Toddler T-Shirts are only available in CA and US.
+- Heather Charcoal Sweatshirts are only available in AU, CA, NZ, and US.
+- Heather Gray Sweatshirts are only available in AU and NZ.
+- Gray Sweatshirts are only available in EU.
+
+Order Rules:
+- Minimum order quantity: 1 piece
+- Maximum order quantity: 50 pieces
+
+Printing Method:
+- Direct-to-garment printing
